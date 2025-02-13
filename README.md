@@ -1,4 +1,4 @@
-## Hi there 👋
+## Alexei Quick 👋
 
 <!--
 **alexeiquickcode/alexeiquickcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
