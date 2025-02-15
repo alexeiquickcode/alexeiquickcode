@@ -1,4 +1,11 @@
-## Alexei Quick 👋
+## Hi, I'm Alexei 👋
+
+I enjoy building things from machine learning to productivity tools 
+
+🛠️ Tech Stack   --> Python, JavaScript, TypeScript, SQL, NoSQL, Lua
+🔭 Tools I Like --> Neovim, Tmux
+
+
 
 <!--
 **alexeiquickcode/alexeiquickcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
