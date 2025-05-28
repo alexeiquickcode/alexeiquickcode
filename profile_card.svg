@@ -1,53 +1,53 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="640" style="background-color:#001F3F">
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="640" style="background-color:#1A1A1A">
 <style> text { font-family: monospace; font-size: 16px; } </style>
-<text x="20" y="20" fill="#FFFFFF" xml:space="preserve">.:    ::.</text>
-<text x="373" y="20" xml:space="preserve"><tspan fill="#AAAAAA"> - alexei@quick -------------------------------------------------</tspan></text>
-<text x="20" y="44" fill="#FFFFFF" xml:space="preserve">              ++++++++.    :      :.-</text>
-<text x="373" y="44" xml:space="preserve"><tspan fill="#7FDBFF"> . </tspan><tspan fill="#7FDBFF">System.OS:</tspan><tspan fill="#AAAAAA"> ......................... </tspan><tspan fill="#FFFFFF">Arch (btw) / Windows (ew)</tspan></text>
-<text x="20" y="68" fill="#FFFFFF" xml:space="preserve">:    .      *.        -+          :.:</text>
-<text x="373" y="68" xml:space="preserve"><tspan fill="#7FDBFF"> . </tspan><tspan fill="#7FDBFF">System.Uptime:</tspan><tspan fill="#AAAAAA"> ...................................... </tspan><tspan fill="#FFFFFF">30:10:10</tspan></text>
-<text x="20" y="92" fill="#FFFFFF" xml:space="preserve">          .:. .-:--:.  -      :.: :..</text>
-<text x="373" y="92" xml:space="preserve"><tspan fill="#7FDBFF"> . </tspan><tspan fill="#7FDBFF">System.Host:</tspan><tspan fill="#AAAAAA"> ................................... </tspan><tspan fill="#FFFFFF">Winning Group</tspan></text>
-<text x="20" y="116" fill="#FFFFFF" xml:space="preserve">          .::  :=++++=--:       .   -</text>
-<text x="373" y="116" xml:space="preserve"><tspan fill="#7FDBFF"> . </tspan><tspan fill="#7FDBFF">System.Kernel:</tspan><tspan fill="#AAAAAA"> .............. </tspan><tspan fill="#FFFFFF">Senior Machine Learning Engineer</tspan></text>
-<text x="20" y="140" fill="#FFFFFF" xml:space="preserve">   ::. : :+.            =+-       :..</text>
-<text x="373" y="140" xml:space="preserve"><tspan fill="#7FDBFF"> . </tspan><tspan fill="#7FDBFF">System.IDE:</tspan><tspan fill="#AAAAAA"> ........................................... </tspan><tspan fill="#FFFFFF">neovim</tspan></text>
-<text x="20" y="164" fill="#FFFFFF" xml:space="preserve">      ::-                  =    .-:::</text>
-<text x="373" y="164" xml:space="preserve"><tspan fill="#AAAAAA"> .</tspan></text>
-<text x="20" y="188" fill="#FFFFFF" xml:space="preserve">      +   :====.. ..  .:     *. ----:</text>
-<text x="373" y="188" xml:space="preserve"><tspan fill="#7FDBFF"> . </tspan><tspan fill="#7FDBFF">Languages.Programming:</tspan><tspan fill="#AAAAAA"> ....... </tspan><tspan fill="#FFFFFF">Python, JavaScript, Lua, MATLAB</tspan></text>
-<text x="20" y="212" fill="#FFFFFF" xml:space="preserve">         :.:==*==. .==-::.=.  * :=---</text>
-<text x="373" y="212" xml:space="preserve"><tspan fill="#7FDBFF"> . </tspan><tspan fill="#7FDBFF">Languages.Real:</tspan><tspan fill="#AAAAAA"> ............................ </tspan><tspan fill="#FFFFFF">English, Japanese</tspan></text>
-<text x="20" y="236" fill="#FFFFFF" xml:space="preserve">         --. ::==   =++*++:.  - .--=-</text>
-<text x="373" y="236" xml:space="preserve"><tspan fill="#AAAAAA"> .</tspan></text>
-<text x="20" y="260" fill="#FFFFFF" xml:space="preserve">    :.         ..   . --:= .     :---</text>
-<text x="373" y="260" xml:space="preserve"><tspan fill="#7FDBFF"> . </tspan><tspan fill="#7FDBFF">Computer.Tools:</tspan><tspan fill="#AAAAAA"> ........................... </tspan><tspan fill="#FFFFFF">Docker, k8s, Linux</tspan></text>
-<text x="20" y="284" fill="#FFFFFF" xml:space="preserve">.   .:  .                     :-.:.::</text>
-<text x="373" y="284" xml:space="preserve"><tspan fill="#7FDBFF"> . </tspan><tspan fill="#7FDBFF">Computer.Cloud:</tspan><tspan fill="#AAAAAA"> ..................................... </tspan><tspan fill="#FFFFFF">AWS, GCP</tspan></text>
-<text x="20" y="308" fill="#FFFFFF" xml:space="preserve">-::- - . .:.=: =+==-=.-:.     -  -:--</text>
-<text x="373" y="308" xml:space="preserve"><tspan fill="#AAAAAA"> .</tspan></text>
-<text x="20" y="332" fill="#FFFFFF" xml:space="preserve">=:.:  :--:=++++*+***+*+++:.. :. :::--</text>
-<text x="373" y="332" xml:space="preserve"><tspan fill="#7FDBFF"> . </tspan><tspan fill="#7FDBFF">Hobbies.Software:</tspan><tspan fill="#AAAAAA"> ........................ </tspan><tspan fill="#FFFFFF">AI/ML, Productivity</tspan></text>
-<text x="20" y="356" fill="#FFFFFF" xml:space="preserve">==.:=:.==:+*+++=+++***#**---.  .:---=</text>
-<text x="373" y="356" xml:space="preserve"><tspan fill="#7FDBFF"> . </tspan><tspan fill="#7FDBFF">Hobbies.Hardware:</tspan><tspan fill="#AAAAAA"> ................ </tspan><tspan fill="#FFFFFF">AFL, Fitness, Cooking, Golf</tspan></text>
-<text x="20" y="380" fill="#FFFFFF" xml:space="preserve">  .    ==+=+:-====-=-::++---:=*---=-=</text>
-<text x="373" y="380" xml:space="preserve"><tspan fill="#AAAAAA"> .</tspan></text>
-<text x="20" y="404" fill="#FFFFFF" xml:space="preserve">.- :    =+===-:...  .::-==+==*+--====</text>
-<text x="373" y="404" xml:space="preserve"><tspan fill="#AAAAAA"> - Contact ------------------------------------------------------</tspan></text>
-<text x="20" y="428" fill="#FFFFFF" xml:space="preserve">  :=    -+++++=: ...:==+++*=*==----==</text>
-<text x="373" y="428" xml:space="preserve"><tspan fill="#7FDBFF"> . </tspan><tspan fill="#7FDBFF">Email.Personal:</tspan><tspan fill="#AAAAAA"> ....................... </tspan><tspan fill="#FFFFFF">alexei.quick@gmail.com</tspan></text>
-<text x="20" y="452" fill="#FFFFFF" xml:space="preserve">: :     -=+++++++=++=+***+= ---==-++=</text>
-<text x="373" y="452" xml:space="preserve"><tspan fill="#7FDBFF"> . </tspan><tspan fill="#7FDBFF">Email.Work:</tspan><tspan fill="#AAAAAA"> ...................... </tspan><tspan fill="#FFFFFF">alexei.quick@winning.com.au</tspan></text>
-<text x="20" y="476" fill="#FFFFFF" xml:space="preserve">:       .:+=+***+*******+=. =-==-====</text>
-<text x="373" y="476" xml:space="preserve"><tspan fill="#7FDBFF"> . </tspan><tspan fill="#7FDBFF">LinkedIn:</tspan><tspan fill="#AAAAAA"> ........................................ </tspan><tspan fill="#FFFFFF">alexeiquick</tspan></text>
-<text x="20" y="500" fill="#FFFFFF" xml:space="preserve">        ..+=++++*+**+*+=-:. -==-=---+</text>
-<text x="373" y="500" xml:space="preserve"><tspan fill="#AAAAAA"> .</tspan></text>
-<text x="20" y="524" fill="#FFFFFF" xml:space="preserve">    .   .::--==+=+++=--. .   +=---==-</text>
-<text x="373" y="524" xml:space="preserve"><tspan fill="#AAAAAA"> - Personal GitHub Stats ----------------------------------------</tspan></text>
-<text x="20" y="548" fill="#FFFFFF" xml:space="preserve">  .+*++* :::--==+===-:..       *+==++</text>
-<text x="373" y="548" xml:space="preserve"><tspan fill="#7FDBFF"> . </tspan><tspan fill="#7FDBFF">Repos:</tspan><tspan fill="#AAAAAA"> .................................................... </tspan><tspan fill="#FFFFFF">15</tspan></text>
-<text x="20" y="572" fill="#FFFFFF" xml:space="preserve">+*+*+#**..:.:--=---:... .      =****+</text>
-<text x="373" y="572" xml:space="preserve"><tspan fill="#7FDBFF"> . </tspan><tspan fill="#7FDBFF">Commits:</tspan><tspan fill="#AAAAAA"> ................................................. </tspan><tspan fill="#FFFFFF">162</tspan></text>
-<text x="20" y="596" fill="#FFFFFF" xml:space="preserve">*****#***:-:-::--::::...:.    .#*#**#</text>
-<text x="373" y="596" xml:space="preserve"><tspan fill="#7FDBFF"> . </tspan><tspan fill="#7FDBFF">Lines of Code:</tspan><tspan fill="#AAAAAA"> ..................................... </tspan><tspan fill="#FFFFFF">1,724,738</tspan></text>
+<text x="20" y="20" fill="#E74C3C" xml:space="preserve">*                     *@       </text>
+<text x="373" y="20" xml:space="preserve"><tspan fill="#F1C40F"> - alexei@quick------------------------------------------------- </tspan></text>
+<text x="20" y="44" fill="#E74C3C" xml:space="preserve">     }                        @@     </text>
+<text x="373" y="44" xml:space="preserve"><tspan fill="#2ECC71"> . </tspan><tspan fill="#2ECC71">System.OS:</tspan><tspan fill="#F1C40F"> ........................ </tspan><tspan fill="#FDFEFE">Arch (btw) / Windows (ew) </tspan></text>
+<text x="20" y="68" fill="#E74C3C" xml:space="preserve">    }                          @@    </text>
+<text x="373" y="68" xml:space="preserve"><tspan fill="#2ECC71"> . </tspan><tspan fill="#2ECC71">System.Uptime:</tspan><tspan fill="#F1C40F"> ..................................... </tspan><tspan fill="#FDFEFE">30:10:10 </tspan></text>
+<text x="20" y="92" fill="#E74C3C" xml:space="preserve">                  -      -   )  )@   </text>
+<text x="373" y="92" xml:space="preserve"><tspan fill="#2ECC71"> . </tspan><tspan fill="#2ECC71">System.Host:</tspan><tspan fill="#F1C40F"> .................................. </tspan><tspan fill="#FDFEFE">Winning Group </tspan></text>
+<text x="20" y="116" fill="#E74C3C" xml:space="preserve">                             -   @   </text>
+<text x="373" y="116" xml:space="preserve"><tspan fill="#2ECC71"> . </tspan><tspan fill="#2ECC71">System.Kernel:</tspan><tspan fill="#F1C40F"> ............. </tspan><tspan fill="#FDFEFE">Senior Machine Learning Engineer </tspan></text>
+<text x="20" y="140" fill="#E74C3C" xml:space="preserve">  @                              @   </text>
+<text x="373" y="140" xml:space="preserve"><tspan fill="#2ECC71"> . </tspan><tspan fill="#2ECC71">System.IDE:</tspan><tspan fill="#F1C40F"> .......................................... </tspan><tspan fill="#FDFEFE">neovim </tspan></text>
+<text x="20" y="164" fill="#E74C3C" xml:space="preserve">  }                      @-    - *@  </text>
+<text x="373" y="164" xml:space="preserve"><tspan fill="#F1C40F"> .</tspan></text>
+<text x="20" y="188" fill="#E74C3C" xml:space="preserve">  ) @@@@@@@)      *@@@-@ @ @@@   @@@@</text>
+<text x="373" y="188" xml:space="preserve"><tspan fill="#2ECC71"> . </tspan><tspan fill="#2ECC71">Languages.Programming:</tspan><tspan fill="#F1C40F"> ...... </tspan><tspan fill="#FDFEFE">Python, JavaScript, Lua, MATLAB </tspan></text>
+<text x="20" y="212" fill="#E74C3C" xml:space="preserve">  @@        @}    })  @)     @   @*@)</text>
+<text x="373" y="212" xml:space="preserve"><tspan fill="#2ECC71"> . </tspan><tspan fill="#2ECC71">Languages.Real:</tspan><tspan fill="#F1C40F"> ........................... </tspan><tspan fill="#FDFEFE">English, Japanese </tspan></text>
+<text x="20" y="236" fill="#E74C3C" xml:space="preserve">      @ @@@ )}   }  ) @@ @@}     @  -</text>
+<text x="373" y="236" xml:space="preserve"><tspan fill="#F1C40F"> .</tspan></text>
+<text x="20" y="260" fill="#E74C3C" xml:space="preserve">  @          )   ))              )@ -</text>
+<text x="373" y="260" xml:space="preserve"><tspan fill="#2ECC71"> . </tspan><tspan fill="#2ECC71">Computer.Tools:</tspan><tspan fill="#F1C40F"> .......................... </tspan><tspan fill="#FDFEFE">Docker, k8s, Linux </tspan></text>
+<text x="20" y="284" fill="#E74C3C" xml:space="preserve">                 *                  -</text>
+<text x="373" y="284" xml:space="preserve"><tspan fill="#2ECC71"> . </tspan><tspan fill="#2ECC71">Computer.Cloud:</tspan><tspan fill="#F1C40F"> .................................... </tspan><tspan fill="#FDFEFE">AWS, GCP </tspan></text>
+<text x="20" y="308" fill="#E74C3C" xml:space="preserve">  @      -   }   *@               } -</text>
+<text x="373" y="308" xml:space="preserve"><tspan fill="#F1C40F"> .</tspan></text>
+<text x="20" y="332" fill="#E74C3C" xml:space="preserve">  @}               }        }    @@ -</text>
+<text x="373" y="332" xml:space="preserve"><tspan fill="#2ECC71"> . </tspan><tspan fill="#2ECC71">Hobbies.Software:</tspan><tspan fill="#F1C40F"> ................................. </tspan><tspan fill="#FDFEFE">AI/ML, DL </tspan></text>
+<text x="20" y="356" fill="#E74C3C" xml:space="preserve">  @         - }*}}               @   </text>
+<text x="373" y="356" xml:space="preserve"><tspan fill="#2ECC71"> . </tspan><tspan fill="#2ECC71">Hobbies.Hardware:</tspan><tspan fill="#F1C40F"> ............... </tspan><tspan fill="#FDFEFE">AFL, Fitness, Cooking, Golf </tspan></text>
+<text x="20" y="380" fill="#E74C3C" xml:space="preserve">   @      * @@   @@@          @@ @ - </text>
+<text x="373" y="380" xml:space="preserve"><tspan fill="#F1C40F"> .</tspan></text>
+<text x="20" y="404" fill="#E74C3C" xml:space="preserve">   @     @@@@@@@@@@@@@@   @ @  ) @  @</text>
+<text x="373" y="404" xml:space="preserve"><tspan fill="#F1C40F"> - Contact------------------------------------------------------ </tspan></text>
+<text x="20" y="428" fill="#E74C3C" xml:space="preserve">    )  @@@ @         @@@@      }     </text>
+<text x="373" y="428" xml:space="preserve"><tspan fill="#2ECC71"> . </tspan><tspan fill="#2ECC71">Email.Personal:</tspan><tspan fill="#F1C40F"> ...................... </tspan><tspan fill="#FDFEFE">alexei.quick@gmail.com </tspan></text>
+<text x="20" y="452" fill="#E74C3C" xml:space="preserve">    @) @*@             @@  @    @ } )</text>
+<text x="373" y="452" xml:space="preserve"><tspan fill="#2ECC71"> . </tspan><tspan fill="#2ECC71">Email.Work:</tspan><tspan fill="#F1C40F"> ..................... </tspan><tspan fill="#FDFEFE">alexei.quick@winning.com.au </tspan></text>
+<text x="20" y="476" fill="#E74C3C" xml:space="preserve">     @ @@  )@@@@@@@@    @  @- @@@ @ *</text>
+<text x="373" y="476" xml:space="preserve"><tspan fill="#2ECC71"> . </tspan><tspan fill="#2ECC71">LinkedIn:</tspan><tspan fill="#F1C40F"> ....................................... </tspan><tspan fill="#FDFEFE">alexeiquick </tspan></text>
+<text x="20" y="500" fill="#E74C3C" xml:space="preserve">      @) @@           )      @@@ @@@ </text>
+<text x="373" y="500" xml:space="preserve"><tspan fill="#F1C40F"> .</tspan></text>
+<text x="20" y="524" fill="#E74C3C" xml:space="preserve">       @@@ @     }   @@@*   -@      @</text>
+<text x="373" y="524" xml:space="preserve"><tspan fill="#F1C40F"> - Personal GitHub Stats---------------------------------------- </tspan></text>
+<text x="20" y="548" fill="#E74C3C" xml:space="preserve">       @@@@ @     ) }  @@@-}@@       </text>
+<text x="373" y="548" xml:space="preserve"><tspan fill="#2ECC71"> . </tspan><tspan fill="#2ECC71">Repos:</tspan><tspan fill="#F1C40F"> ................................................... </tspan><tspan fill="#FDFEFE">15 </tspan></text>
+<text x="20" y="572" fill="#E74C3C" xml:space="preserve">          @@@@ @  @*@@@@   @@    )   </text>
+<text x="373" y="572" xml:space="preserve"><tspan fill="#2ECC71"> . </tspan><tspan fill="#2ECC71">Commits:</tspan><tspan fill="#F1C40F"> ................................................ </tspan><tspan fill="#FDFEFE">163 </tspan></text>
+<text x="20" y="596" fill="#E74C3C" xml:space="preserve">      @)  @  @  @}@ -  @ @    @   @@@</text>
+<text x="373" y="596" xml:space="preserve"><tspan fill="#2ECC71"> . </tspan><tspan fill="#2ECC71">Lines of Code:</tspan><tspan fill="#F1C40F"> .................................... </tspan><tspan fill="#FDFEFE">1,725,352 </tspan></text>
 </svg>

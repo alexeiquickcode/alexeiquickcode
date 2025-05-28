@@ -113,7 +113,7 @@ def generate_profile_lines(
     """
     lines: list[str | tuple[str, str]] = []
     for top_level, sections in profile_data.items():
-        lines.append(f' - {top_level} ' + '-' * (total_width - len(top_level) - 1))
+        lines.append(f" - {top_level}{'-' * (total_width - len(top_level) - 1)} ")
         added_spacer = False  # Track if spacer was already added
 
         if isinstance(sections, dict):
@@ -121,17 +121,17 @@ def generate_profile_lines(
                 if isinstance(items, dict):
                     for label, value in items.items():
                         full_label = f"{second_level}.{label}:" if top_level == "alexei@quick" else f"{label}:"
-                        lines.append((full_label, value))
+                        lines.append((full_label, f"{value} "))
                     lines.append(" .")  # Spacer after nested group
                     added_spacer = True
                 else:
                     full_label = f"{second_level}:"
-                    lines.append((full_label, items))
+                    lines.append((full_label, f"{items} "))
 
             if not added_spacer:
                 lines.append(" .")  # Spacer for flat sections
         else:
-            lines.append((top_level, sections))
+            lines.append((top_level, f"{sections} "))
             lines.append(" .")  # Fallback in case it's not a dict
 
     return lines[:-1]
