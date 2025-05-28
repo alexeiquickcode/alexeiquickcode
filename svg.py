@@ -66,7 +66,7 @@ def render_combined_svg(
     max_lines = max(len(ascii_lines), len(profile_lines))
     svg = [
         f'<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="{max_lines * line_height + 40}" style="background-color:{colors["background"]}">',
-        '<style> text { font-family: monospace; font-size: 16px; } </style>',
+        '<style> text { font-family: monospace; font-size: 12px; } </style>',
     ]
     char_width, padding = 9, 40
     profile_x_offset = len(ascii_lines[1]) * char_width + padding
